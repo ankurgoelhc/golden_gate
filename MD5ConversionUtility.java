@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 public class MD5ConversionUtility 
 {
     public static void main(String[] args)throws Exception {
-    	System.out.println(encryptDataInHEXFormat("baavgavha"));
+    	System.out.println(encryptDataInHEXFormat("ZunedAHmed"));
     	
     }
     
